@@ -1,6 +1,4 @@
-using ACTRMCEModels
-using Test
+using SafeTestsets
 
-@testset "ACTRMCEModels.jl" begin
-    # Write your tests here.
-end
+files = filter(f -> occursin(".jl", f) && f ≠ "runtests.jl", readdir())
+include.(files)
