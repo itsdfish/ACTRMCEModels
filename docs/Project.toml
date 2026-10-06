@@ -1,0 +1,6 @@
+[deps]
+ACTRMCEModels = "97e7c640-e817-42d3-aeaf-9eec7b6b38cb"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+
+[sources]
+ACTRMCEModels = {path = ".."}
