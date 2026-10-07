@@ -33,7 +33,7 @@ ReferencePointModels = {rev = "main", url = "https://github.com/itsdfish/Referen
 
 [compat]
 ACTRModels = "0.13.5"
-CSV = "0.10.15"
+CSV = "0.10.15, 1.1"
 Combinatorics = "1.0.3"
 DataFrames = "1.7.0"
 Distributions = "0.25.120"
