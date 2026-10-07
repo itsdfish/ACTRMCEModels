@@ -53,9 +53,9 @@ TuringUtilities = "0.2.0"
 julia = "1.6.7"
 
 [sources]
-PriorityHeuristicModels = {url = "https://github.com/itsdfish/PriorityHeuristicModels.jl"}
-ReferencePointModels = {url = "https://github.com/itsdfish/ReferencePointModels.jl"}
-TrueAndErrorDependentModels = {url = "https://github.com/itsdfish/TrueAndErrorDependentModels.jl"}
+PriorityHeuristicModels = {url = "https://github.com/itsdfish/PriorityHeuristicModels"}
+ReferencePointModels = {url = "https://github.com/itsdfish/ReferencePointModels"}
+TrueAndErrorDependentModels = {url = "https://github.com/itsdfish/TrueAndErrorDependentModels"}
 TrueAndErrorModels = {url = "https://github.com/itsdfish/TrueAndErrorModels.jl"}
 TuringUtilities = {url = "https://github.com/itsdfish/TuringUtilities.jl"}
 
