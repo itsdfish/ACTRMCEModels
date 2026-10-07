@@ -3,7 +3,7 @@
 ##########################################################################################################
 cd(@__DIR__)
 using Pkg
-Pkg.activate("..")
+Pkg.activate("../..")
 using Revise
 using CSV
 using DataFrames
@@ -13,7 +13,7 @@ using PriorityHeuristicModels: to_decision_index
 using QuantumDynamicInconsistencyModels
 using ReferencePointModels
 using Statistics
-include("../model_comparison/data_parsing_functions.jl")
+include("model_comparison/data_parsing_functions.jl")
 ##########################################################################################################
 #                                              load data
 ##########################################################################################################
