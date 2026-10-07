@@ -53,7 +53,7 @@ StatsBase = "0.34.6"
 StatsPlots = "0.15.8"
 TrueAndErrorDependentModels = "0.1.0"
 TrueAndErrorModels = "0.2.17"
-Turing = "0.37.0"
+Turing = "0.37.0, 0.49"
 TuringUtilities = "0.2.7"
 julia = "1.6.7"
 
