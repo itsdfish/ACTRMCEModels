@@ -8,7 +8,6 @@ using Revise
 using CSV
 using DataFrames
 using MCMCChains
-using Pigeons
 using Random
 using StatsPlots
 using TrueAndErrorDependentModels
